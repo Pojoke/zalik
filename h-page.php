@@ -3,8 +3,8 @@
       <img src="assets/img/hero-bg.jpg" alt="" data-aos="fade-in">
 
       <div class="container text-center" data-aos="fade-up" data-aos-delay="100">
-        <h2>Welcome to Squad</h2>
-        <p>We are team of talented designers making websites with Bootstrap</p>
+        <h2>Welcome to Novinews</h2>
+        <p>Актуальні новини України та світу – Будьте в курсі подій!</p>
         <a href="#about" class="btn-scroll" title="Scroll Down"><i class="bi bi-chevron-down"></i></a>
       </div>
 
