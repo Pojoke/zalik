@@ -4,12 +4,12 @@
       <div class="row gy-4">
         <div class="col-lg-4 col-md-6 footer-about">
           <a href="index.html" class="logo d-flex align-items-center">
-            <span class="sitename">Squadfree</span>
+            <span class="sitename">Novinews</span>
           </a>
           <div class="footer-contact pt-3">
-            <p>A108 Adam Street</p>
-            <p>New York, NY 535022</p>
-            <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
+            <p>Україна</p>
+            <p>Харків, Аерокосмічна 1</p>
+            <p class="mt-3"><strong>Phone:</strong> <span>+380660846750</span></p>
             <p><strong>Email:</strong> <span>info@example.com</span></p>
           </div>
           <div class="social-links d-flex mt-4">
@@ -21,14 +21,16 @@
         </div>
 
         <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Useful Links</h4>
+          <h4>Навігація</h4>
           <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About us</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Terms of service</a></li>
-            <li><a href="#">Privacy policy</a></li>
-          </ul>
+          <li><a href="#hero" class="active">Головна сторінка</a></li>
+          
+          <li><a href="#portfolio"> Усі новини</a></li>
+          <li><a href="#testimonials">Актуальні цитати</a></li>
+          <li><a href="#team">Наша команда</a></li>
+          
+          
+        </ul>
         </div>
 
         <!-- <div class="col-lg-2 col-md-3 footer-links">

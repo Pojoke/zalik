@@ -86,13 +86,14 @@
       </div><!-- End Portfolio Item -->
 
       <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-        <img src="assets/img/portfolio/product-2.jpg" class="img-fluid" alt="">
-        <div class="portfolio-info">
+      <div class="portfolio-info">
           <h4>Product 2</h4>
           <p>Lorem ipsum, dolor sit amet consectetur</p>
           <a href="assets/img/portfolio/product-2.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
         </div>
+        <img src="assets/img/portfolio/product-2.jpg" class="img-fluid" alt="">
+       
       </div><!-- End Portfolio Item -->
 
       <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
@@ -211,12 +212,12 @@
         <div class="testimonial-item">
           <p>
             <i class="bi bi-quote quote-icon-left"></i>
-            <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+            <span>«Коли щось достатньо важливе, ви робите це, навіть якщо шанси не на вашу користь».</span>
             <i class="bi bi-quote quote-icon-right"></i>
           </p>
           <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-          <h3>Saul Goodman</h3>
-          <h4>Ceo &amp; Founder</h4>
+          <h3>Ілон Маск</h3>
+          
         </div>
       </div><!-- End testimonial item -->
 
@@ -224,12 +225,12 @@
         <div class="testimonial-item">
           <p>
             <i class="bi bi-quote quote-icon-left"></i>
-            <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
+            <span>Думайте масштабно й не погоджуйтеся на менше</span>
             <i class="bi bi-quote quote-icon-right"></i>
           </p>
           <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-          <h3>Sara Wilsson</h3>
-          <h4>Designer</h4>
+          <h3>Дональд Трамп:</h3>
+          
         </div>
       </div><!-- End testimonial item -->
 
@@ -237,12 +238,12 @@
         <div class="testimonial-item">
           <p>
             <i class="bi bi-quote quote-icon-left"></i>
-            <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.</span>
+            <span>Ваш бренд — це те, що люди кажуть про вас, коли вас немає в кімнаті</span>
             <i class="bi bi-quote quote-icon-right"></i>
           </p>
           <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-          <h3>Jena Karlis</h3>
-          <h4>Store Owner</h4>
+          <h3>Джефф Безос</h3>
+          <!-- <h4>Store Owner</h4> -->
         </div>
       </div><!-- End testimonial item -->
 
@@ -250,12 +251,12 @@
         <div class="testimonial-item">
           <p>
             <i class="bi bi-quote quote-icon-left"></i>
-            <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</span>
+            <span>Ідеї не приходять повністю сформованими. Вони стають чіткішими в процесі роботи над ними</span>
             <i class="bi bi-quote quote-icon-right"></i>
           </p>
           <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-          <h3>Matt Brandon</h3>
-          <h4>Freelancer</h4>
+          <h3>Марк Цукерберг</h3>
+          
         </div>
       </div><!-- End testimonial item -->
 
@@ -263,12 +264,12 @@
         <div class="testimonial-item">
           <p>
             <i class="bi bi-quote quote-icon-left"></i>
-            <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.</span>
+            <span>Ваш час обмежений, не витрачайте його, живучи чужим життям.</span>
             <i class="bi bi-quote quote-icon-right"></i>
           </p>
           <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-          <h3>John Larson</h3>
-          <h4>Entrepreneur</h4>
+          <h3>Стів Джобс</h3>
+         
         </div>
       </div><!-- End testimonial item -->
 
@@ -305,8 +306,8 @@
             <a href=""><i class="bi bi-instagram"></i></a>
             <a href=""><i class="bi bi-linkedin"></i></a>
           </div>
-          <h4>Walter White</h4>
-          <span>Chief Executive Officer</span>
+          <h4> Олег Головко</h4>
+          <span>Головний редактор</span>
         </div>
       </div>
     </div><!-- End Team Member -->
@@ -323,8 +324,8 @@
             <a href=""><i class="bi bi-instagram"></i></a>
             <a href=""><i class="bi bi-linkedin"></i></a>
           </div>
-          <h4>Sarah Jhonson</h4>
-          <span>Product Manager</span>
+          <h4>Марія Ковальчук</h4>
+          <span>Кореспондент</span>
         </div>
       </div>
     </div><!-- End Team Member -->
@@ -341,8 +342,8 @@
             <a href=""><i class="bi bi-instagram"></i></a>
             <a href=""><i class="bi bi-linkedin"></i></a>
           </div>
-          <h4>William Anderson</h4>
-          <span>CTO</span>
+          <h4>Андрій Савчук </h4>
+          <span>Журналіст-аналітик</span>
         </div>
       </div>
     </div><!-- End Team Member -->
