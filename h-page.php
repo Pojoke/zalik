@@ -17,8 +17,8 @@
 
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
-  <h2>Portfolio</h2>
-  <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+  <h2>Усі новини </h2>
+  <p>Дізнайтесь більше про новини політики , економіки , спорту та багато іншого </p>
 </div><!-- End Section Title -->
 
 <div class="container">
@@ -26,11 +26,11 @@
   <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
 
     <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-      <li data-filter="*" class="filter-active">All</li>
-      <li data-filter=".filter-app">App</li>
-      <li data-filter=".filter-product">Product</li>
-      <li data-filter=".filter-branding">Branding</li>
-      <li data-filter=".filter-books">Books</li>
+      <li data-filter="*" class="filter-active">Політика</li>
+      <li data-filter=".filter-app">Економіка</li>
+      <li data-filter=".filter-product">Спорт</li>
+      <li data-filter=".filter-branding">Шоубізнес</li>
+      <li data-filter=".filter-books">Погода</li>
     </ul><!-- End Portfolio Filters -->
 
     <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
